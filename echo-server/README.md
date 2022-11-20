@@ -4,7 +4,7 @@ Node.js echo server
 ## Running the echo server
 
 ```sh
-node index.js
+node src/index.js
 ```
 
 ## Connecting to the echo server
